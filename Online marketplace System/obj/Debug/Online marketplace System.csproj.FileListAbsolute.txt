@@ -1,0 +1,218 @@
+c:\users\dell\documents\visual studio 2015\Projects\Online marketplace System\Online marketplace System\bin\Debug\Online marketplace System.exe.config
+c:\users\dell\documents\visual studio 2015\Projects\Online marketplace System\Online marketplace System\bin\Debug\Online marketplace System.exe
+c:\users\dell\documents\visual studio 2015\Projects\Online marketplace System\Online marketplace System\bin\Debug\Online marketplace System.pdb
+c:\users\dell\documents\visual studio 2015\Projects\Online marketplace System\Online marketplace System\bin\Debug\MySql.Data.dll
+c:\users\dell\documents\visual studio 2015\Projects\Online marketplace System\Online marketplace System\bin\Debug\Google.Protobuf.dll
+c:\users\dell\documents\visual studio 2015\Projects\Online marketplace System\Online marketplace System\bin\Debug\ZstdNet.dll
+c:\users\dell\documents\visual studio 2015\Projects\Online marketplace System\Online marketplace System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+c:\users\dell\documents\visual studio 2015\Projects\Online marketplace System\Online marketplace System\bin\Debug\BouncyCastle.Crypto.dll
+c:\users\dell\documents\visual studio 2015\Projects\Online marketplace System\Online marketplace System\bin\Debug\Ubiety.Dns.Core.dll
+c:\users\dell\documents\visual studio 2015\Projects\Online marketplace System\Online marketplace System\bin\Debug\System.Buffers.dll
+c:\users\dell\documents\visual studio 2015\Projects\Online marketplace System\Online marketplace System\bin\Debug\K4os.Compression.LZ4.dll
+c:\users\dell\documents\visual studio 2015\Projects\Online marketplace System\Online marketplace System\bin\Debug\K4os.Hash.xxHash.dll
+c:\users\dell\documents\visual studio 2015\Projects\Online marketplace System\Online marketplace System\bin\Debug\MySql.Data.xml
+c:\users\dell\documents\visual studio 2015\Projects\Online marketplace System\Online marketplace System\obj\Debug\Online marketplace System.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2015\Projects\Online marketplace System\Online marketplace System\obj\Debug\Online marketplace System.csproj.Online marketplace System.exe.config
+c:\users\dell\documents\visual studio 2015\Projects\Online marketplace System\Online marketplace System\obj\Debug\Online_marketplace_System.Form1.resources
+c:\users\dell\documents\visual studio 2015\Projects\Online marketplace System\Online marketplace System\obj\Debug\Online_marketplace_System.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2015\Projects\Online marketplace System\Online marketplace System\obj\Debug\Online marketplace System.csproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2015\Projects\Online marketplace System\Online marketplace System\obj\Debug\Online marketplace System.exe
+c:\users\dell\documents\visual studio 2015\Projects\Online marketplace System\Online marketplace System\obj\Debug\Online marketplace System.pdb
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\Online marketplace System\Online marketplace System\obj\Debug\Online_marketplace_System.Frorm2.resources
+C:\Users\Dell\Desktop\ppprrojrct\Online marketplace System\Online marketplace System\bin\Debug\Online marketplace System.exe.config
+C:\Users\Dell\Desktop\ppprrojrct\Online marketplace System\Online marketplace System\obj\Debug\Online marketplace System.exe
+C:\Users\Dell\Desktop\ppprrojrct\Online marketplace System\Online marketplace System\obj\Debug\Online marketplace System.pdb
+C:\Users\Dell\Desktop\ppprrojrct\Online marketplace System\Online marketplace System\bin\Debug\Online marketplace System.exe
+C:\Users\Dell\Desktop\ppprrojrct\Online marketplace System\Online marketplace System\bin\Debug\Online marketplace System.pdb
+C:\Users\Dell\Desktop\ppprrojrct\Online marketplace System\Online marketplace System\bin\Debug\MySql.Data.dll
+C:\Users\Dell\Desktop\ppprrojrct\Online marketplace System\Online marketplace System\bin\Debug\Google.Protobuf.dll
+C:\Users\Dell\Desktop\ppprrojrct\Online marketplace System\Online marketplace System\bin\Debug\ZstdNet.dll
+C:\Users\Dell\Desktop\ppprrojrct\Online marketplace System\Online marketplace System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Dell\Desktop\ppprrojrct\Online marketplace System\Online marketplace System\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Dell\Desktop\ppprrojrct\Online marketplace System\Online marketplace System\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Dell\Desktop\ppprrojrct\Online marketplace System\Online marketplace System\bin\Debug\System.Buffers.dll
+C:\Users\Dell\Desktop\ppprrojrct\Online marketplace System\Online marketplace System\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Dell\Desktop\ppprrojrct\Online marketplace System\Online marketplace System\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Dell\Desktop\ppprrojrct\Online marketplace System\Online marketplace System\bin\Debug\MySql.Data.xml
+C:\Users\Dell\Desktop\ppprrojrct\Online marketplace System\Online marketplace System\obj\Debug\Online marketplace System.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\ppprrojrct\Online marketplace System\Online marketplace System\obj\Debug\Online marketplace System.csproj.Online marketplace System.exe.config
+C:\Users\Dell\Desktop\ppprrojrct\Online marketplace System\Online marketplace System\obj\Debug\Online_marketplace_System.user_profile.resources
+C:\Users\Dell\Desktop\ppprrojrct\Online marketplace System\Online marketplace System\obj\Debug\Online_marketplace_System.add_product.resources
+C:\Users\Dell\Desktop\ppprrojrct\Online marketplace System\Online marketplace System\obj\Debug\Online_marketplace_System.Properties.Resources.resources
+C:\Users\Dell\Desktop\ppprrojrct\Online marketplace System\Online marketplace System\obj\Debug\Online marketplace System.csproj.GenerateResource.Cache
+C:\Users\Dell\Desktop\ppprrojrct\Online marketplace System\Online marketplace System\obj\Debug\Online_marketplace_System.Form11.resources
+C:\Users\Dell\Desktop\ppprrojrct\Online marketplace System\Online marketplace System\obj\Debug\Online_marketplace_System.product_buy.resources
+C:\Users\Dell\Desktop\ppprrojrct\Online marketplace System\Online marketplace System\obj\Debug\Online_marketplace_System.purchased_item.resources
+C:\Users\Dell\Desktop\ppprrojrct\Online marketplace System\Online marketplace System\obj\Debug\Online_marketplace_System.search_item.resources
+C:\Users\Dell\Desktop\ppprrojrct\Online marketplace System\Online marketplace System\obj\Debug\Online_marketplace_System.sold_item.resources
+D:\triaaallllll\Online marketplace System\Online marketplace System\obj\Debug\Online marketplace System.csprojResolveAssemblyReference.cache
+D:\triaaallllll\Online marketplace System\Online marketplace System\obj\Debug\Online marketplace System.csproj.Online marketplace System.exe.config
+D:\triaaallllll\Online marketplace System\Online marketplace System\obj\Debug\Online_marketplace_System.Form11.resources
+D:\triaaallllll\Online marketplace System\Online marketplace System\obj\Debug\Online_marketplace_System.product_buy.resources
+D:\triaaallllll\Online marketplace System\Online marketplace System\obj\Debug\Online_marketplace_System.purchased_item.resources
+D:\triaaallllll\Online marketplace System\Online marketplace System\obj\Debug\Online_marketplace_System.search_item.resources
+D:\triaaallllll\Online marketplace System\Online marketplace System\obj\Debug\Online_marketplace_System.sold_item.resources
+D:\triaaallllll\Online marketplace System\Online marketplace System\obj\Debug\Online_marketplace_System.user_profile.resources
+D:\triaaallllll\Online marketplace System\Online marketplace System\obj\Debug\Online_marketplace_System.add_product.resources
+D:\triaaallllll\Online marketplace System\Online marketplace System\obj\Debug\Online_marketplace_System.Properties.Resources.resources
+D:\triaaallllll\Online marketplace System\Online marketplace System\obj\Debug\Online marketplace System.csproj.GenerateResource.Cache
+D:\triaaallllll\Online marketplace System\Online marketplace System\obj\Debug\Online marketplace System.exe
+D:\triaaallllll\Online marketplace System\Online marketplace System\obj\Debug\Online marketplace System.pdb
+D:\triaaallllll\Online marketplace System\Online marketplace System\bin\Debug\Online marketplace System.exe.config
+D:\triaaallllll\Online marketplace System\Online marketplace System\bin\Debug\Online marketplace System.exe
+D:\triaaallllll\Online marketplace System\Online marketplace System\bin\Debug\Online marketplace System.pdb
+D:\triaaallllll\Online marketplace System\Online marketplace System\bin\Debug\MySql.Data.dll
+D:\triaaallllll\Online marketplace System\Online marketplace System\bin\Debug\Google.Protobuf.dll
+D:\triaaallllll\Online marketplace System\Online marketplace System\bin\Debug\ZstdNet.dll
+D:\triaaallllll\Online marketplace System\Online marketplace System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\triaaallllll\Online marketplace System\Online marketplace System\bin\Debug\BouncyCastle.Crypto.dll
+D:\triaaallllll\Online marketplace System\Online marketplace System\bin\Debug\Ubiety.Dns.Core.dll
+D:\triaaallllll\Online marketplace System\Online marketplace System\bin\Debug\System.Buffers.dll
+D:\triaaallllll\Online marketplace System\Online marketplace System\bin\Debug\K4os.Compression.LZ4.dll
+D:\triaaallllll\Online marketplace System\Online marketplace System\bin\Debug\K4os.Hash.xxHash.dll
+D:\triaaallllll\Online marketplace System\Online marketplace System\bin\Debug\MySql.Data.xml
+C:\Users\Dell\Desktop\last\Online marketplace System\Online marketplace System\bin\Debug\Online marketplace System.exe.config
+C:\Users\Dell\Desktop\last\Online marketplace System\Online marketplace System\obj\Debug\Online marketplace System.exe
+C:\Users\Dell\Desktop\last\Online marketplace System\Online marketplace System\obj\Debug\Online marketplace System.pdb
+C:\Users\Dell\Desktop\last\Online marketplace System\Online marketplace System\bin\Debug\Online marketplace System.exe
+C:\Users\Dell\Desktop\last\Online marketplace System\Online marketplace System\bin\Debug\Online marketplace System.pdb
+C:\Users\Dell\Desktop\last\Online marketplace System\Online marketplace System\bin\Debug\MySql.Data.dll
+C:\Users\Dell\Desktop\last\Online marketplace System\Online marketplace System\bin\Debug\Google.Protobuf.dll
+C:\Users\Dell\Desktop\last\Online marketplace System\Online marketplace System\bin\Debug\ZstdNet.dll
+C:\Users\Dell\Desktop\last\Online marketplace System\Online marketplace System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Dell\Desktop\last\Online marketplace System\Online marketplace System\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Dell\Desktop\last\Online marketplace System\Online marketplace System\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Dell\Desktop\last\Online marketplace System\Online marketplace System\bin\Debug\System.Buffers.dll
+C:\Users\Dell\Desktop\last\Online marketplace System\Online marketplace System\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Dell\Desktop\last\Online marketplace System\Online marketplace System\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Dell\Desktop\last\Online marketplace System\Online marketplace System\bin\Debug\MySql.Data.xml
+C:\Users\Dell\Desktop\last\Online marketplace System\Online marketplace System\obj\Debug\Online marketplace System.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\last\Online marketplace System\Online marketplace System\obj\Debug\Online marketplace System.csproj.Online marketplace System.exe.config
+C:\Users\Dell\Desktop\last\Online marketplace System\Online marketplace System\obj\Debug\Online_marketplace_System.Form11.resources
+C:\Users\Dell\Desktop\last\Online marketplace System\Online marketplace System\obj\Debug\Online_marketplace_System.product_buy.resources
+C:\Users\Dell\Desktop\last\Online marketplace System\Online marketplace System\obj\Debug\Online_marketplace_System.purchased_item.resources
+C:\Users\Dell\Desktop\last\Online marketplace System\Online marketplace System\obj\Debug\Online_marketplace_System.search_item.resources
+C:\Users\Dell\Desktop\last\Online marketplace System\Online marketplace System\obj\Debug\Online_marketplace_System.sold_item.resources
+C:\Users\Dell\Desktop\last\Online marketplace System\Online marketplace System\obj\Debug\Online_marketplace_System.user_profile.resources
+C:\Users\Dell\Desktop\last\Online marketplace System\Online marketplace System\obj\Debug\Online_marketplace_System.add_product.resources
+C:\Users\Dell\Desktop\last\Online marketplace System\Online marketplace System\obj\Debug\Online_marketplace_System.Properties.Resources.resources
+C:\Users\Dell\Desktop\last\Online marketplace System\Online marketplace System\obj\Debug\Online marketplace System.csproj.GenerateResource.Cache
+D:\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\bin\Debug\Online marketplace System.exe.config
+D:\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\bin\Debug\Online marketplace System.exe
+D:\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\bin\Debug\Online marketplace System.pdb
+D:\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\bin\Debug\MySql.Data.dll
+D:\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\bin\Debug\Google.Protobuf.dll
+D:\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\bin\Debug\ZstdNet.dll
+D:\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\bin\Debug\BouncyCastle.Crypto.dll
+D:\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\bin\Debug\Ubiety.Dns.Core.dll
+D:\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\bin\Debug\System.Memory.dll
+D:\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\bin\Debug\System.Buffers.dll
+D:\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\bin\Debug\K4os.Compression.LZ4.dll
+D:\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\bin\Debug\K4os.Hash.xxHash.dll
+D:\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\bin\Debug\MySql.Data.xml
+D:\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\obj\Debug\Online marketplace System.csproj.AssemblyReference.cache
+D:\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\obj\Debug\Online marketplace System.csproj.SuggestedBindingRedirects.cache
+D:\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\obj\Debug\Online marketplace System.exe.config
+D:\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\obj\Debug\Online_marketplace_System.Form11.resources
+D:\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\obj\Debug\Online_marketplace_System.product_buy.resources
+D:\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\obj\Debug\Online_marketplace_System.purchased_item.resources
+D:\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\obj\Debug\Online_marketplace_System.search_item.resources
+D:\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\obj\Debug\Online_marketplace_System.sold_item.resources
+D:\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\obj\Debug\Online_marketplace_System.user_profile.resources
+D:\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\obj\Debug\Online_marketplace_System.add_product.resources
+D:\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\obj\Debug\Online_marketplace_System.Properties.Resources.resources
+D:\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\obj\Debug\Online marketplace System.csproj.GenerateResource.cache
+D:\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\obj\Debug\Online marketplace System.csproj.CoreCompileInputs.cache
+D:\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\obj\Debug\Online marketplace System.csproj.CopyComplete
+D:\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\obj\Debug\Online marketplace System.exe
+D:\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\obj\Debug\Online marketplace System.pdb
+D:\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\bin\Debug\Newtonsoft.Json.dll
+D:\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\bin\Debug\Newtonsoft.Json.xml
+D:\4th Computer\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\bin\Debug\Online marketplace System.exe.config
+D:\4th Computer\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\obj\Debug\Online marketplace System.exe
+D:\4th Computer\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\obj\Debug\Online marketplace System.pdb
+D:\4th Computer\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\bin\Debug\Online marketplace System.exe
+D:\4th Computer\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\bin\Debug\Online marketplace System.pdb
+D:\4th Computer\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\bin\Debug\MySql.Data.dll
+D:\4th Computer\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\bin\Debug\Newtonsoft.Json.dll
+D:\4th Computer\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\bin\Debug\Google.Protobuf.dll
+D:\4th Computer\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\bin\Debug\ZstdNet.dll
+D:\4th Computer\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\4th Computer\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\bin\Debug\BouncyCastle.Crypto.dll
+D:\4th Computer\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\bin\Debug\Ubiety.Dns.Core.dll
+D:\4th Computer\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\bin\Debug\System.Memory.dll
+D:\4th Computer\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\bin\Debug\System.Buffers.dll
+D:\4th Computer\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\bin\Debug\K4os.Compression.LZ4.dll
+D:\4th Computer\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\bin\Debug\K4os.Hash.xxHash.dll
+D:\4th Computer\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\bin\Debug\MySql.Data.xml
+D:\4th Computer\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\bin\Debug\Newtonsoft.Json.xml
+D:\4th Computer\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\obj\Debug\Online marketplace System.csprojResolveAssemblyReference.cache
+D:\4th Computer\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\obj\Debug\Online marketplace System.csproj.Online marketplace System.exe.config
+D:\4th Computer\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\obj\Debug\Online_marketplace_System.Form11.resources
+D:\4th Computer\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\obj\Debug\Online_marketplace_System.product_buy.resources
+D:\4th Computer\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\obj\Debug\Online_marketplace_System.purchased_item.resources
+D:\4th Computer\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\obj\Debug\Online_marketplace_System.search_item.resources
+D:\4th Computer\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\obj\Debug\Online_marketplace_System.sold_item.resources
+D:\4th Computer\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\obj\Debug\Online_marketplace_System.user_profile.resources
+D:\4th Computer\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\obj\Debug\Online_marketplace_System.add_product.resources
+D:\4th Computer\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\obj\Debug\Online_marketplace_System.Properties.Resources.resources
+D:\4th Computer\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\obj\Debug\Online marketplace System.csproj.GenerateResource.Cache
+D:\4th Computer\DS\Deliverales2\phase2\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\bin\Debug\Online marketplace System.exe.config
+D:\4th Computer\DS\Deliverales2\phase2\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\obj\Debug\Online marketplace System.exe
+D:\4th Computer\DS\Deliverales2\phase2\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\obj\Debug\Online marketplace System.pdb
+D:\4th Computer\DS\Deliverales2\phase2\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\bin\Debug\Online marketplace System.exe
+D:\4th Computer\DS\Deliverales2\phase2\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\bin\Debug\Online marketplace System.pdb
+D:\4th Computer\DS\Deliverales2\phase2\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\bin\Debug\MySql.Data.dll
+D:\4th Computer\DS\Deliverales2\phase2\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\bin\Debug\Newtonsoft.Json.dll
+D:\4th Computer\DS\Deliverales2\phase2\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\bin\Debug\Google.Protobuf.dll
+D:\4th Computer\DS\Deliverales2\phase2\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\bin\Debug\ZstdNet.dll
+D:\4th Computer\DS\Deliverales2\phase2\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\4th Computer\DS\Deliverales2\phase2\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\bin\Debug\BouncyCastle.Crypto.dll
+D:\4th Computer\DS\Deliverales2\phase2\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\bin\Debug\Ubiety.Dns.Core.dll
+D:\4th Computer\DS\Deliverales2\phase2\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\bin\Debug\System.Memory.dll
+D:\4th Computer\DS\Deliverales2\phase2\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\bin\Debug\System.Buffers.dll
+D:\4th Computer\DS\Deliverales2\phase2\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\bin\Debug\K4os.Compression.LZ4.dll
+D:\4th Computer\DS\Deliverales2\phase2\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\bin\Debug\K4os.Hash.xxHash.dll
+D:\4th Computer\DS\Deliverales2\phase2\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\bin\Debug\MySql.Data.xml
+D:\4th Computer\DS\Deliverales2\phase2\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\bin\Debug\Newtonsoft.Json.xml
+D:\4th Computer\DS\Deliverales2\phase2\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\obj\Debug\Online marketplace System.csprojResolveAssemblyReference.cache
+D:\4th Computer\DS\Deliverales2\phase2\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\obj\Debug\Online marketplace System.csproj.Online marketplace System.exe.config
+D:\4th Computer\DS\Deliverales2\phase2\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\obj\Debug\Online_marketplace_System.Form11.resources
+D:\4th Computer\DS\Deliverales2\phase2\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\obj\Debug\Online_marketplace_System.product_buy.resources
+D:\4th Computer\DS\Deliverales2\phase2\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\obj\Debug\Online_marketplace_System.purchased_item.resources
+D:\4th Computer\DS\Deliverales2\phase2\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\obj\Debug\Online_marketplace_System.search_item.resources
+D:\4th Computer\DS\Deliverales2\phase2\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\obj\Debug\Online_marketplace_System.sold_item.resources
+D:\4th Computer\DS\Deliverales2\phase2\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\obj\Debug\Online_marketplace_System.user_profile.resources
+D:\4th Computer\DS\Deliverales2\phase2\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\obj\Debug\Online_marketplace_System.add_product.resources
+D:\4th Computer\DS\Deliverales2\phase2\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\obj\Debug\Online_marketplace_System.Properties.Resources.resources
+D:\4th Computer\DS\Deliverales2\phase2\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\obj\Debug\Online marketplace System.csproj.GenerateResource.Cache
+C:\Users\Dell\Desktop\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\bin\Debug\Online marketplace System.exe.config
+C:\Users\Dell\Desktop\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\obj\Debug\Online marketplace System.exe
+C:\Users\Dell\Desktop\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\obj\Debug\Online marketplace System.pdb
+C:\Users\Dell\Desktop\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\bin\Debug\Online marketplace System.exe
+C:\Users\Dell\Desktop\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\bin\Debug\Online marketplace System.pdb
+C:\Users\Dell\Desktop\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\bin\Debug\MySql.Data.dll
+C:\Users\Dell\Desktop\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dell\Desktop\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\bin\Debug\Google.Protobuf.dll
+C:\Users\Dell\Desktop\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\bin\Debug\ZstdNet.dll
+C:\Users\Dell\Desktop\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Dell\Desktop\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Dell\Desktop\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Dell\Desktop\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\bin\Debug\System.Memory.dll
+C:\Users\Dell\Desktop\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\bin\Debug\System.Buffers.dll
+C:\Users\Dell\Desktop\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Dell\Desktop\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Dell\Desktop\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\bin\Debug\MySql.Data.xml
+C:\Users\Dell\Desktop\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dell\Desktop\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\obj\Debug\Online marketplace System.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\obj\Debug\Online marketplace System.csproj.Online marketplace System.exe.config
+C:\Users\Dell\Desktop\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\obj\Debug\Online_marketplace_System.Form11.resources
+C:\Users\Dell\Desktop\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\obj\Debug\Online_marketplace_System.product_buy.resources
+C:\Users\Dell\Desktop\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\obj\Debug\Online_marketplace_System.purchased_item.resources
+C:\Users\Dell\Desktop\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\obj\Debug\Online_marketplace_System.search_item.resources
+C:\Users\Dell\Desktop\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\obj\Debug\Online_marketplace_System.sold_item.resources
+C:\Users\Dell\Desktop\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\obj\Debug\Online_marketplace_System.user_profile.resources
+C:\Users\Dell\Desktop\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\obj\Debug\Online_marketplace_System.add_product.resources
+C:\Users\Dell\Desktop\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\obj\Debug\Online_marketplace_System.Properties.Resources.resources
+C:\Users\Dell\Desktop\online market place platform - Copy\last\last\Online marketplace System\Online marketplace System\obj\Debug\Online marketplace System.csproj.GenerateResource.Cache
